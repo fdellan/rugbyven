@@ -1,0 +1,10 @@
+html, body {
+  background-color: #ffe6e6;
+  color: #003300;
+  font-family: Helvetica,sans-serif;
+  text-align: center;
+}
+#user{
+  text-align: right;
+  text-decoration: underline;
+}
